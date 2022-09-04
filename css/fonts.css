@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url(./../fonts/gilroy-bold.ttf);
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(./../fonts/gilroy-extrabold.ttf);
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url(./../fonts/gilroy-medium.ttf);
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chronicle';
+    src: url(./../fonts/Chronicle-Display-Black.otf);
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chronicle';
+    src: url(./../fonts/Chronicle-Display-Semibold.otf);
+    font-weight: 600;
+    font-style: normal;
+}
